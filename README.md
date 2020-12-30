@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Netflix Clone Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is created using ReactJs. This is a simple clone of Netflix Website. You can click over any thumbnail to play the trailer.
 
 ## Available Scripts
 
